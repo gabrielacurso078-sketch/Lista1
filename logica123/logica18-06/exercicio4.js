@@ -1,0 +1,1 @@
+let classificaçãoDosTriângulos = prompt("")
